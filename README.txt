@@ -1,4 +1,5 @@
 ELL782 Assignment 2 - Five-stage pipelined washing-machine microcontroller
+Submitted by: Shikhar Verma[2025EEN2020]
 ==========================================================================
 
 CONTENTS
