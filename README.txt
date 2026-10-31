@@ -69,4 +69,3 @@ VALIDATION GROUPS (see validation.pdf for inputs / expected / observed)
 NOTES
   * ROM size 256x16, RAM 128x8 (addresses 0x00-0x7F), peripherals at 0xF0-0xFF (memory_map.pdf).
   * Register file and RAM power up as 0 in Logisim but the programs never rely on that.
-  * This is an educational safety interlock, not a certified appliance safety system.
